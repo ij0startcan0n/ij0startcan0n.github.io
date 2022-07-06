@@ -3,7 +3,7 @@
 [![ij.start.canon](get-start.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
 
 
-IJ Canon printer setup offers the Printer Setup download link where you can install the printer setup further. With the online https://ij.start.canon, you can set up the Canon Printer Model. When you you connect the Canon printer into your pc, your system does not need to install the driver on it.IJ Canon printer setup can be downloaded via [ij.start.canon](https://ij0startcan0n.github.io/) page. Canon is the best wireless printer that you can connect to your device and print data smoothly. Canon CD is not the well-suited technique for canon setup installation for longer. So you just need to visit ij.start.canon to download and setup canon printers.
+IJ Canon printer setup offers the Printer Setup download link where you can install the printer setup further. With the online https://ij.start.canon, you can set up the Canon Printer Model. When you you connect the Canon printer into your pc, your system does not need to install the driver on it.IJ Canon printer setup can be downloaded via **[ij.start.canon](https://ij0startcan0n.github.io/)** page. Canon is the best wireless printer that you can connect to your device and print data smoothly. Canon CD is not the well-suited technique for canon setup installation for longer. So you just need to visit ij.start.canon to download and setup canon printers.
 
 
 ## How to Setup Canon Printer?
@@ -14,7 +14,7 @@ IJ Canon printer setup offers the Printer Setup download link where you can inst
 * Install into your System
 
 ## How to Setup Canon Printers at “ij.start.canon”?
-Canon Printer Setup at “[ij.start.canon](https://ij0startcan0n.github.io/)” is surprisingly convenient and fast. All you need to know is your Printer’s Model Number and this platform will enable you to perform the setup smoothly. This procedure involves three distinct phases. However, before that, you must launch “ij.start.canon” and open the required webpage.
+Canon Printer Setup at **“[ij.start.canon](https://ij0startcan0n.github.io/)”** is surprisingly convenient and fast. All you need to know is your Printer’s Model Number and this platform will enable you to perform the setup smoothly. This procedure involves three distinct phases. However, before that, you must launch “ij.start.canon” and open the required webpage.
 
 
 ### Step 1 : Launch “ij.start.canon”
@@ -55,9 +55,7 @@ Canon Printer Setup at “[ij.start.canon](https://ij0startcan0n.github.io/)” 
 * Hence, closely follow the given instructions and connect your printer to the internet network.
 
 ## How to install canon printer from ij.start.canon?
-**Install a printer canon on your device Windows or Mac from ij.start.canon page. The installation helps you in printing your files without any hassle. Follow the below steps to 
-
-Install a printer canon**
+**Install a printer canon on your device Windows or Mac from ij.start.canon page. The installation helps you in printing your files without any hassle. Follow the below steps to Install a printer canon**
 
 1. If your computer has not the **CD-ROM**, then get the setup online.
 2. Open your browser and visit the **[ij.start.canon](https://ij0startcan0n.github.io/)** webpage.
